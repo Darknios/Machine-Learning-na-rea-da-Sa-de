@@ -27,7 +27,7 @@ Aplicativo interativo desenvolvido para:
 # LEITURA DO DATASET REAL
 # =============================
 
-caminho = "D:/Aluno/Downloads/Projeto_Previsão_de_Doenças_Cardíacas_Machine_Learning_Aplicado_à_Saúde/Projeto_Previsão_de_Doenças_Cardíacas_Machine_Learning_Aplicado_à_Saúde/heart.csv"
+caminho = "heart.csv"
 df = pd.read_csv(caminho)
 
 # =============================
@@ -736,4 +736,5 @@ with aba3:
     
     st.dataframe(comparacao)
     
+
     
