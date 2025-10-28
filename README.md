@@ -1,5 +1,7 @@
 # Machine-Learning na área da saúde
 
+Link do projeto: https://machine-learning-na-rea-da-sa-de-bd7vu3jsbagmtzurxgk7yi.streamlit.app/
+
 Projeto: Previsão de Doenças Cardíacas com Machine Learning
 
 Resumo:
